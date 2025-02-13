@@ -9,7 +9,7 @@ body {
 }
 
 .card {
-    width: 270px;
+    width: 290px;
     height: 250px;
     perspective: 1300px;
     cursor: pointer;
